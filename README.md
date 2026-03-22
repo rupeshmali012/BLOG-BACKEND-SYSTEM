@@ -34,6 +34,8 @@ Messaging: Developed consumers.py to manage real-time message broadcasting acros
 
 Outcome: A high-performance chat engine that updates messages instantly without page refreshes.
 
+https://github.com/user-attachments/assets/a377a96b-6aa4-4c18-878f-3661d259ecda
+
 ## Task 3: E-COMMERCE BACKEND
 Objective: To manage complex business logic for product inventory and sales.
 
