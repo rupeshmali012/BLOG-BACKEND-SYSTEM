@@ -47,6 +47,9 @@ Security: Ensured data consistency using ForeignKeys and atomic-like operations 
 
 Outcome: A reliable transaction-ready system for online retail operations.
 
+https://github.com/user-attachments/assets/45f8788b-9f09-47f2-b13e-987970107e6d
+
+
 ## Task 4: AI-POWERED RECOMMENDATION ENGINE
 Objective: To leverage Machine Learning for personalized user experiences.
 
