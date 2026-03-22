@@ -49,6 +49,7 @@ Outcome: A reliable transaction-ready system for online retail operations.
 
 https://github.com/user-attachments/assets/45f8788b-9f09-47f2-b13e-987970107e6d
 https://github.com/user-attachments/assets/b75a9df1-a84e-48cd-9d34-7c93c93f8f91
+https://github.com/user-attachments/assets/16191cc0-9270-4644-9672-5d96e1b9149e
 
 ## Task 4: AI-POWERED RECOMMENDATION ENGINE
 Objective: To leverage Machine Learning for personalized user experiences.
