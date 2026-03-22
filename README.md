@@ -62,3 +62,4 @@ AI Logic: The engine analyzes product descriptions to find mathematical similari
 
 Outcome: An intelligent backend that increases user engagement through data-driven suggestions.
 
+https://github.com/user-attachments/assets/47f8f166-8fd8-44e4-8085-48bd1d6cc827
